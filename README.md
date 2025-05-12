@@ -30,11 +30,11 @@
 Task:
 - You are given the following table **ProductDetail**:
 
-| OrderID | CustomerName  | Products                        |
+| OrderID | CustomerName  | Products                                 |
 |---------|---------------|---------------------------------|
-| 101     | John Doe      | Laptop, Mouse                   |
-| 102     | Jane Smith    | Tablet, Keyboard, Mouse         |
-| 103     | Emily Clark   | Phone                           |
+| 101             | John Doe            | Laptop, Mouse                       |
+| 102            | Jane Smith         | Tablet, Keyboard, Mouse    | 
+| 103            | Emily Clark          |  Phone
 
 
 - In the table above, the **Products column** contains multiple values, which violates **1NF**.
